@@ -4,16 +4,14 @@
 - UI/UX에 관심이 많아요
 - 팀워크를 통한 성장을 중요하게 생각해요
 
-
-<br>
 <br>
 
-## Experience 🌍
+## Experience 
 2023.07 ~ <br>
 Samsung Software Academy For Youth(SSAFY) 10th 
 
 
-  <br>
+
   <br>
 
 
@@ -51,7 +49,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white">
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-<br>
+
 <br>
 <br>
 
@@ -121,7 +119,6 @@ Techs that I've used at least once
 </table>
 
 
-<br>
 <br>
 
 ## Stats ✨
