@@ -6,7 +6,7 @@
 
 <br>
 
-## Experience 
+## Experience 🌙
 2023.07 ~ <br>
 Samsung Software Academy For Youth(SSAFY) 10th 
 
@@ -19,6 +19,7 @@ Samsung Software Academy For Youth(SSAFY) 10th
 Techs that I've used at least once
 
 ### Frontend
+<div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
@@ -27,34 +28,39 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
 <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=white">
 <img src="https://img.shields.io/badge/RECOIL-3578E5?style=for-the-badge&logo=RECOIL&logoColor=white">
-
+</div>
 
 ### Mobile
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=FLUTTER&logoColor=white">
 
 
 ### CI/CD
+<div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=JENKINS&logoColor=white">
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white">
 <img src="https://img.shields.io/badge/FASTLANE-00F200?style=for-the-badge&logo=FASTLANE&logoColor=white">
-
+</div>
 
 ### Version Control
+<div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
 <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=GITLAB&logoColor=white">
+</div>
 
 ### Communication
+<div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white">
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
-
+</div>
 
 <br>
 <br>
 
 ## DEV log 🌖
 <hr>
+<div style="text-align: center;">
 <table>
   <tr>
     <th>Title</th>
@@ -117,11 +123,11 @@ Techs that I've used at least once
     <td> Flutter, Dart </td>
   </tr>
 </table>
-
+</div>
 
 <br>
 
 ## Stats ✨
-
 [![orhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhflxhdxhd)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac dhflxhdxhd](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhflxhdxhd)](https://solved.ac/{handle})
+
