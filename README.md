@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=7EA1FF&text=Ahyeon%20Kim&section=header&reversal=false&textBg=false&fontColor=27374D&fontSize=76&fontAlign=51)
 
 ## About me 🌍
-- UI/UX에 관심이 많아요
+- 사용자 경험을 발전시킬 수 있는 방법을 고민해요
 - 팀워크를 통한 성장을 중요하게 생각해요
+- 부족한 부분을 적극적으로 수용하고, 새로운 기술을 도입하는 것을 두려워하지 않습니다.
 
 <br>
 
