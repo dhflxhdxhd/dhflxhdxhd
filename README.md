@@ -137,8 +137,8 @@ Techs that I've used at least once
     <td> Flutter, Dart </td>
   </tr>
 <tr>
-    <td><a href="https://github.com/honam-hyanguhoe/bare-egg-log">소콘소콘</a></td>
-    <td> 에그로그 – 간호사를 위한 근무 관리 서비스 (2024) </td>
+    <td><a href="https://github.com/honam-hyanguhoe/bare-egg-log">에그로그</a></td>
+    <td> 간호사를 위한 근무 관리 서비스 (2024) </td>
     <td> Android, Kotlin, Jetpack-Compose, React, TypeScript, D3.js </td>
   </tr>
 </table>
