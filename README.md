@@ -29,11 +29,14 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
 <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=white">
 <img src="https://img.shields.io/badge/RECOIL-3578E5?style=for-the-badge&logo=RECOIL&logoColor=white">
+<img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white">
 </div>
 
 ### Mobile
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=FLUTTER&logoColor=white">
-
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=KOTLIN&logoColor=white">
+<img src="https://img.shields.io/badge/jetpack compose-34285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 
 ### CI/CD
 <div style="display: flex; gap: 10px">
