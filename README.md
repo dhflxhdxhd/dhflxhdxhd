@@ -8,8 +8,8 @@
 <br>
 
 ## Experience 🌙
-2023.07 ~ <br>
-Samsung Software Academy For Youth(SSAFY) 10th 
+2023.07 ~ 2024.06 <br>
+삼성 청년 SW 아카데미 10기 | 수료
 
 
 
@@ -68,16 +68,26 @@ Techs that I've used at least once
     <th>Introduction</th>
     <th>Skills</th>
   </tr>
-  <tr>
-    <td><a href="https://github.com/dhflxhdxhd/smartfarm_with_arduino">스마트팜</a></td>
-    <td> 베트남 망고 & 커피 농장의 데이터를 수집 및 비교 분석 (2019) </td>
-    <td> Arduino, C++, Jupyter Notebook </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/dhflxhdxhd/android_moonlightfairy_saftey">moonlightfariy</a></td>
-    <td> 밤길 안전 신고 어플 (2019) </td>
-    <td> Android, firebase </td>
-  </tr>
+
+[//]: # (  <tr>)
+
+[//]: # (    <td><a href="https://github.com/dhflxhdxhd/smartfarm_with_arduino">스마트팜</a></td>)
+
+[//]: # (    <td> 베트남 망고 & 커피 농장의 데이터를 수집 및 비교 분석 &#40;2019&#41; </td>)
+
+[//]: # (    <td> Arduino, C++, Jupyter Notebook </td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td><a href="https://github.com/dhflxhdxhd/android_moonlightfairy_saftey">moonlightfariy</a></td>)
+
+[//]: # (    <td> 밤길 안전 신고 어플 &#40;2019&#41; </td>)
+
+[//]: # (    <td> Android, firebase </td>)
+
+[//]: # (  </tr>)
 
 [//]: # (  <tr>)
 
@@ -122,6 +132,11 @@ Techs that I've used at least once
     <td><a href="https://github.com/dhflxhdxhd/socon-socon">소콘소콘</a></td>
     <td> 소상공인을 위한 기프티콘 발행 서비스 (2024) </td>
     <td> Flutter, Dart </td>
+  </tr>
+<tr>
+    <td><a href="https://github.com/honam-hyanguhoe/bare-egg-log">소콘소콘</a></td>
+    <td> 에그로그 – 간호사를 위한 근무 관리 서비스 (2024) </td>
+    <td> Android, Kotlin, Jetpack-Compose, React, TypeScript, D3.js </td>
   </tr>
 </table>
 </div>
