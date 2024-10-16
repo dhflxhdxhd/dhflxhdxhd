@@ -127,7 +127,7 @@ Techs that I've used at least once
     <td> Vue.js, Pinia, Vite </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dhflxhdxhd/mynameis">저의 이름은</a></td>
+    <td><a href="https://github.com/dhflxhdxhd/MyNameIsFE">저의 이름은</a></td>
     <td> 단계별 다대다 화상 소개팅 서비스 (2024) </td>
     <td> React, TypeScript, Recoil, WebSocket, Openvidu, Jenkins, Docker, nginx </td>
   </tr>
